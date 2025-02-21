@@ -1,0 +1,29 @@
+[
+  {
+    "course_code": "FSHI001",
+    "course_name": "Programim Vizual",
+    "course_hours": "2+3",
+    "ects": "6",
+    "course_status": "O",
+    "semester": "II",
+    "program": "Informatik\u00eb"
+  },
+  {
+    "course_code": "FSHI002",
+    "course_name": "Algoritmet Dhe Strukturat e Te Dhenave",
+    "course_hours": "3+2",
+    "ects": "8",
+    "course_status": "Z",
+    "semester": "III",
+    "program": "Informatik\u00eb"
+  },
+  {
+    "course_code": "FSHI007",
+    "course_name": "Inxhinjeri Softuerike",
+    "course_hours": "4+8",
+    "ects": "4",
+    "course_status": "O",
+    "semester": "I",
+    "program": "Informatik\u00eb"
+  }
+]
